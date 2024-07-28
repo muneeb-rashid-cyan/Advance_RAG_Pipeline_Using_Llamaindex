@@ -1,0 +1,14 @@
+*.env
+*requirements_plain.txt
+*__pycache__
+**/storage/
+*.gitattributes
+**/data/*
+!**/data/
+*.files
+6.*
+**/output/*
+!**/output/
+*questions.json
+*_evaluations.json
+*benchmark.csv
